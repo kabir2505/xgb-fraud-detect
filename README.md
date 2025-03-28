@@ -1,5 +1,7 @@
 ### XGB for fraud-detection
 
-`cd ./xgb`
+`cd ./xgb_
+python3 app.py
+`
 
 
